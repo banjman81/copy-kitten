@@ -3,6 +3,9 @@
     font-size: 25px;
     margin: 5px;
 }
+.cell:hover{
+    background-color: rgba(22, 255, 177, 0.541);
+}
 .row{
     margin: 15px;
 }
