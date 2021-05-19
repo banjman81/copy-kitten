@@ -1,0 +1,29 @@
+.cell{
+    padding: 5px;
+    font-size: 25px;
+    margin: 5px;
+}
+.row{
+    margin: 15px;
+}
+.column-1{
+    border-right: 1px solid black;
+}
+.column-2{
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.column-3{
+    border-left: 1px solid black;
+}
+
+.row-1{
+    border-bottom: 1px solid black;
+}
+.row-2{
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+}
+.row-3{
+    border-top: 1px solid black;
+}
